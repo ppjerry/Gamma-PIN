@@ -1,4 +1,4 @@
-Partlist exported from F:/Projekty/Misc/EagleCAD/Projekty biezace/Gamma PIN/Preamplifier.sch at 16.02.2020 12:56
+Partlist exported from F:/Projekty/Gamma_PIN/Gamma-PIN/Third version prototype/PCB/Preamplifier/Preamplifier.sch at 16.02.2020 22:35
 
 Qty Value          Device              Package        Parts                                        Description                                                                   AVAILABILITY  DESCRIPTION                                                                     DIGIKEY          MANUFACTURER_PART_NUMBER MF                MP      PACKAGE      PRICE    SPICEPREFIX VENDOR
 1   0,47p/50V      C-EUC0603           C0603          C12                                          CAPACITOR, European symbol                                                                                                                                                                                                                                            C                 
